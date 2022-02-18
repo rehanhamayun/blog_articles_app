@@ -8,3 +8,6 @@ var textTitle = GoogleFonts.poppins(
   fontSize: 22,
   fontWeight: FontWeight.w600,
 );
+
+var rowImg =
+    "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fDNkJTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80";
